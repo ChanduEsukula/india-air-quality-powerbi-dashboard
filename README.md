@@ -4,7 +4,7 @@
 This project is an interactive Power BI dashboard built to analyze air quality trends across major Indian cities. It focuses on seasonal, yearly, and city-level pollution patterns using key indicators such as PM2.5, PM10, NO₂, and CO.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Air Quality Dash.png)
+![Dashboard Screenshot](Air%20Quality%20Dash.png)
 
 ## Objective
 The goal of this project was to transform raw air quality data into an interactive and decision-friendly dashboard that helps users explore pollution trends across time, geography, and seasonality.
